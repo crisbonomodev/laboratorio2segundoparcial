@@ -1,0 +1,6 @@
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\bin\Debug\BaseDatos.dacpac
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\obj\Debug\BaseDatos.sqlprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\obj\Debug\BaseDatos.pdb

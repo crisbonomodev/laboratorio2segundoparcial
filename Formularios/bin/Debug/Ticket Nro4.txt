@@ -1,0 +1,9 @@
+Pizzeria - Recibo X - Pedido Nro4 
+---------------------------
+11/24/2020 12:06:37 PM
+---------------------------
+Cliente: asd
+---------------------------
+Producto Nro Descripcion Cantidad PrecioU Subtotal
+2 Calabresa
+---------------------------

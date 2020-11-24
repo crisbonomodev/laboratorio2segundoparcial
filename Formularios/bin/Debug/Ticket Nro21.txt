@@ -1,0 +1,9 @@
+Pizzeria - Recibo X - Pedido Nro21 
+---------------------------
+11/24/2020 9:47:17 AM
+---------------------------
+Cliente: Cristian
+---------------------------
+Producto Nro Descripcion Cantidad PrecioU Subtotal
+5 Carne
+---------------------------

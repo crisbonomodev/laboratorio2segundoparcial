@@ -1,0 +1,86 @@
+11/20/2020 2:41:31 PM	This log contains information about the import schema operation into project 'BaseDatos' on computer 'DESKTOP-KHMI639' by user 'Cristian'.
+11/20/2020 2:41:31 PM	Import of database schema has started.
+11/20/2020 2:41:44 PM	Gathering database credentials
+11/20/2020 2:41:44 PM	Gathering database options
+11/20/2020 2:41:44 PM	Gathering generic database scoped configuration option
+11/20/2020 2:41:44 PM	Gathering users
+11/20/2020 2:41:44 PM	Gathering roles
+11/20/2020 2:41:44 PM	Gathering application roles
+11/20/2020 2:41:44 PM	Gathering role memberships
+11/20/2020 2:41:44 PM	Gathering filegroups
+11/20/2020 2:41:44 PM	Gathering full-text catalogs
+11/20/2020 2:41:44 PM	Gathering assemblies
+11/20/2020 2:41:44 PM	Gathering certificates
+11/20/2020 2:41:44 PM	Gathering asymmetric keys
+11/20/2020 2:41:44 PM	Gathering symmetric keys
+11/20/2020 2:41:44 PM	Gathering encrypted symmetric keys
+11/20/2020 2:41:44 PM	Gathering schemas
+11/20/2020 2:41:44 PM	Gathering XML schema collections
+11/20/2020 2:41:44 PM	Gathering user-defined data types
+11/20/2020 2:41:44 PM	Gathering user-defined types
+11/20/2020 2:41:44 PM	Gathering table types
+11/20/2020 2:41:44 PM	Gathering unique keys for table types
+11/20/2020 2:41:44 PM	Gathering primary keys for table types
+11/20/2020 2:41:44 PM	Gathering indexes for table types
+11/20/2020 2:41:44 PM	Gathering check constraints for table types
+11/20/2020 2:41:44 PM	Gathering default constraints for table types
+11/20/2020 2:41:44 PM	Gathering partition functions
+11/20/2020 2:41:44 PM	Gathering partition schemes
+11/20/2020 2:41:44 PM	Gathering functions
+11/20/2020 2:41:44 PM	Gathering encrypted functions
+11/20/2020 2:41:44 PM	Gathering aggregates
+11/20/2020 2:41:44 PM	Gathering procedures
+11/20/2020 2:41:44 PM	Gathering encrypted procedures
+11/20/2020 2:41:44 PM	Gathering tables
+11/20/2020 2:41:44 PM	Gathering primary keys
+11/20/2020 2:41:44 PM	Gathering unique constraints
+11/20/2020 2:41:44 PM	Gathering foreign keys
+11/20/2020 2:41:44 PM	Gathering default constraints
+11/20/2020 2:41:44 PM	Gathering check constraints
+11/20/2020 2:41:44 PM	Gathering views
+11/20/2020 2:41:44 PM	Gathering encrypted views
+11/20/2020 2:41:44 PM	Gathering indexes
+11/20/2020 2:41:44 PM	Gathering statistics
+11/20/2020 2:41:44 PM	Gathering full-text index stoplists
+11/20/2020 2:41:44 PM	Gathering search property lists
+11/20/2020 2:41:44 PM	Gathering search properties
+11/20/2020 2:41:44 PM	Gathering full-text indexes
+11/20/2020 2:41:44 PM	Gathering column store indexes
+11/20/2020 2:41:44 PM	Gathering spatial indexes
+11/20/2020 2:41:44 PM	Gathering XML indexes
+11/20/2020 2:41:44 PM	Gathering Selective XML indexes
+11/20/2020 2:41:44 PM	Gathering encrypted triggers
+11/20/2020 2:41:44 PM	Gathering triggers
+11/20/2020 2:41:44 PM	Gathering encrypted and clr ddl triggers
+11/20/2020 2:41:44 PM	Gathering ddl triggers
+11/20/2020 2:41:44 PM	Creating edge constraints
+11/20/2020 2:41:44 PM	Gathering synonyms
+11/20/2020 2:41:44 PM	Gathering defaults
+11/20/2020 2:41:44 PM	Gathering data constraint uddt bindings
+11/20/2020 2:41:44 PM	Gathering rules
+11/20/2020 2:41:44 PM	Gathering data constraint uddt bindings
+11/20/2020 2:41:44 PM	Gathering message types
+11/20/2020 2:41:44 PM	Gathering queues
+11/20/2020 2:41:44 PM	Gathering contracts
+11/20/2020 2:41:44 PM	Gathering services
+11/20/2020 2:41:44 PM	Gathering event notifications
+11/20/2020 2:41:44 PM	Gathering remote service bindings
+11/20/2020 2:41:44 PM	Gathering broker priorities
+11/20/2020 2:41:44 PM	Gathering signatures
+11/20/2020 2:41:44 PM	Gathering data compression options
+11/20/2020 2:41:44 PM	Gathering sequence types
+11/20/2020 2:41:44 PM	Gathering security policies
+11/20/2020 2:41:44 PM	Gather column encryption keys
+11/20/2020 2:41:44 PM	Gathering column master keys
+11/20/2020 2:41:44 PM	Gathering external data sources
+11/20/2020 2:41:44 PM	Gathering external file formats
+11/20/2020 2:41:44 PM	Gathering external tables
+11/20/2020 2:41:45 PM	Gathering extended properties
+11/20/2020 2:41:45 PM	Gathering credentials
+11/20/2020 2:41:45 PM	Gathering logins
+11/20/2020 2:41:45 PM	Gathering server audits
+11/20/2020 2:41:47 PM	Scanning project for duplicate elements
+11/20/2020 2:41:47 PM	Finished duplicate element processing
+11/20/2020 2:41:48 PM	Finished importing database.
+11/20/2020 2:41:48 PM	A summary of the import was saved to the following location: C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\BaseDatos\Import Schema Logs\BaseDatos_20201120054131.log
+11/20/2020 2:41:48 PM	Click Finish to continue...

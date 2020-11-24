@@ -1,0 +1,6 @@
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Entidades\obj\Debug\Entidades.pdb

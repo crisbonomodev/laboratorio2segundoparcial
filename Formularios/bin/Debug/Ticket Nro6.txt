@@ -1,0 +1,9 @@
+Pizzeria - Recibo X - Pedido Nro6 
+---------------------------
+11/24/2020 12:08:36 PM
+---------------------------
+Cliente: asd
+---------------------------
+Producto Nro Descripcion Cantidad PrecioU Subtotal
+1 Muzarella
+---------------------------

@@ -1,0 +1,9 @@
+Pizzeria - Recibo X - Pedido Nro3 
+---------------------------
+11/24/2020 10:42:25 AM
+---------------------------
+Cliente: asdsad
+---------------------------
+Producto Nro Descripcion Cantidad PrecioU Subtotal
+3 Napolitana
+---------------------------

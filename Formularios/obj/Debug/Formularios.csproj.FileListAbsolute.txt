@@ -1,0 +1,14 @@
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\bin\Debug\Formularios.exe
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.frmPrincipal.resources
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.exe
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.frmNuevoPedido.resources
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\bin\Debug\Entidades.dll
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Cristian\source\repos\Bonomo.Cristian.2doParcial\Formularios\obj\Debug\Formularios.csproj.CopyComplete
